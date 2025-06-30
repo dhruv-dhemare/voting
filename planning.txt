@@ -36,5 +36,7 @@ User Profile
 Admin Candidate Management
     /candidates: POST - create a new candidate
     /candidates/candidateID PUT - Update an existing candidate
-    /candidates/candidateID DELETE - Delete a candidate from the list
+    /candidates/candidateID DELETE - Delete a candidate from the listgit push origin main
+
+
 
