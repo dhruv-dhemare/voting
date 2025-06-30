@@ -2,8 +2,7 @@ voting application
 
 What ??
 A functionality where user can give vote to the given set of candidates
-Models??
-Routes??
+
 
 --------------------------------------------------------
 Voting applicaiton functionality -
@@ -28,7 +27,7 @@ Voting
     /Vote /: candidateID: POST - Vote for a specific candidates
 
 Vote Counts
-    /vote/counts GET - get teh list of candidates sorted by thier voting count
+    /vote/counts GET - get the list of candidates sorted by thier voting count
 
 User Profile
     /profile: GET - Get the user's profile information
